@@ -1,3 +1,3 @@
 print('lucifer')
-print('hello world')\
+print('hello world')
 print('ok')
